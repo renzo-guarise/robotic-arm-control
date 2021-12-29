@@ -16,8 +16,8 @@ servidor y cliente.
   - Activación/Desactivación del robot.
   - Listado de los comandos de control
   - Ayuda con ejemplificación de la sintaxis requerida3 para los comandos que lo requieran.
-  - Servidor XML-RPC, capaz de ejecutar las mismas operaciones anteriores solicitadas en forma remota.
-  - La aplicación de consola debe implementar herencia desde la clase Cmd
+- Servidor XML-RPC, capaz de ejecutar las mismas operaciones anteriores solicitadas en forma remota.
+- La aplicación de consola debe implementar herencia desde la clase Cmd
 
 ### Servicios del lado Cliente. La interfaz principal debe ofrecer:
   - Panel de control del robot, con funcionalidades similares a las de la interfaz de consola.
