@@ -2,7 +2,7 @@
 ## Description
 In this project my partner Lucas Trubiano and I implemented an Graphical Interface and Client-Server Connection for the control of an ABB IRB 460 robot arm. Also we used the library robotics toolbox by Peter Corke which we were able to simulate the robot and visualize how the robot did the instrutions from the client
 
-##Objectives
+## Objectives
 - Implementar OOP.
 - Utilizar modelos de capas (al menos 2), de manera que la solución
 pueda usarse independientemente de que haya interfaz gráfica o de consola.
@@ -10,7 +10,7 @@ pueda usarse independientemente de que haya interfaz gráfica o de consola.
 - Los módulos del lado cliente deben estar desarrollados en C++.
 - El desarrollo debe ser operativo bajo plataforma Linux para los módulos del lado
 servidor y cliente.
-###Servicios del lado servidor:
+### Servicios del lado servidor:
 - Panel de control del robot, mediante consola (CLI) que permita realizar:
   - Conexión/desconexión al Robot usando comunicación serial.
   - Activación/Desactivación del robot.
