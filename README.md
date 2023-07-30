@@ -25,4 +25,4 @@ server and client.
   - Table or curves showing the speed of each of the links.
   - Learning the trajectory with storage of the corresponding orders in a text file (readable) that allows it to be reproduced.
 ### Architecture (UML)
-![UML](https://github.com/renzo-guarise/robotic-arm-control/blob/main/UML.png)
+![UML](https://github.com/renzo-guarise/robotic-arm-control/blob/main/resources/UML.png)
